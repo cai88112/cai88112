@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ##### 😄 I'm a JAVA developer
 ##### 👀 I'm learning Golang now
-@OSSDAO-ORG•AIRDROP-0xa0f3ec4ac5ecc9f94f05c7110bf1d268e0cb0faf
